@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{FB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.DerekBanas", "Strategy.DerekBanas\Strategy.DerekBanas.csproj", "{68322267-5313-4AB6-816A-97AC809CDE31}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{DCC633F7-59FB-497B-84E1-B64FCEF2D748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.AgilePrinciplesPatternsBook", "Command.AgilePrinciplesPatternsBook\Command.AgilePrinciplesPatternsBook.csproj", "{0152788A-F1EE-47AA-B703-C9F3C763C81D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{68322267-5313-4AB6-816A-97AC809CDE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68322267-5313-4AB6-816A-97AC809CDE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68322267-5313-4AB6-816A-97AC809CDE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0152788A-F1EE-47AA-B703-C9F3C763C81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0152788A-F1EE-47AA-B703-C9F3C763C81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0152788A-F1EE-47AA-B703-C9F3C763C81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0152788A-F1EE-47AA-B703-C9F3C763C81D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{68322267-5313-4AB6-816A-97AC809CDE31} = {FB32DEB2-70E5-4429-BC9E-BAF9D1AF16C7}
+		{0152788A-F1EE-47AA-B703-C9F3C763C81D} = {DCC633F7-59FB-497B-84E1-B64FCEF2D748}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0E7D7B4-8327-4518-868D-6D9D9C3C4D6F}
